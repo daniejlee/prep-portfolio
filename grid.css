@@ -31,6 +31,9 @@
     min-height: 1px;
     margin-right: .5%;
     margin-left: .5%;
+
+    /*added*/
+    text-align: center;
 }
 
 .col-1 {
